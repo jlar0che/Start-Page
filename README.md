@@ -1,2 +1,2 @@
 # Start-Page
-Intranet One Page Site with Active Directory Authentication
+Intranet single page site with Active Directory authentication
