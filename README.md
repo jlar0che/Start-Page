@@ -1,5 +1,5 @@
 # Start-Page
-Intranet single page site with Active Directory authentication
+Intranet single-page info site for teams, departments and organizations. Authenticates users against Active Directory.
 
 [![Watch the Demo Video](https://imgur.com/a/E68pVYv)](https://youtu.be/0z0whmJj-_0)
 
