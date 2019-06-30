@@ -12,7 +12,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 - I created this Intranet page to centralize all important information for a team, organization or department.
 - The site authenticates the users you define against your local Active Directory.
-- To be extra-safe make sure to use an SSL certificate on the webserver hosting this site in your environment.
+- To be extra-safe make sure to use an SSL certificate on the webserver hosting this site in your environment!
 
 #### 2. Instructions
 
